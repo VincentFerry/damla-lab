@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     checkDailyLimit();
 
     // Easter Egg
-    console.log("Verdict du labo : Lundi soir 19h ?");
+    console.log("Mais qu'est ce que tu fais ici ? Tu sais coder en faite ? :D");
 
     // Button Logic
     doseBtn.addEventListener('click', fetchJoke); // Static, normal click
